@@ -1,0 +1,105 @@
+.titulo{
+    background-color: #1D1D1D;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    margin: 0%;
+}
+.texto-principal{
+    background-color: #1D1D1D;
+    color: white;
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 1%;
+    padding: 2%;
+}
+
+
+.siguiente{
+    color: white;
+    width: 100%;
+    margin: 1%;
+    background-color:#1D1D1D ;
+    padding: 1%;
+    text-align: center;
+}    
+    
+
+
+    
+    
+
+.carrusel{
+    width: 40%;
+    display: inline-block;
+    object-fit: cover;
+    margin: 1%;
+
+
+    
+}
+.contenedor{
+   width: 100%;
+   display: inline-block;
+
+}
+
+.contenedor2{
+    display: inline-block;
+    width: 100%;
+    margin-left: 3%;
+}
+
+.card-body-apthsut{
+    display: inline-block;
+    vertical-align: middle;
+    
+    
+}
+.card-body-libertad{
+    display: inline-block;
+    vertical-align: middle;
+}
+.card-body-voragine{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.giras{
+    color: white;
+    width: 100%;
+    margin: 1%;
+    background-color:#1D1D1D ;
+    padding: 1%;
+    text-align: center;
+}    
+.hecho{
+    padding: 1%;
+}
+.contexto{
+    width: 55%;
+    vertical-align: middle;
+    display:inline-block;
+    color: white;
+    margin: 0%;
+}
+.fotohistoria{
+    width: 35%;
+    vertical-align: middle;
+    display:inline-block;
+    margin: 0%;
+}
+#contenedorhistoria{
+    background-color: #1D1D1D;
+    width: 90%;
+    margin: 5%;
+    padding: 1%;
+    border-radius: 20px;
+    font-family: serif;
+
+}
+.imghistoria{
+    width: 100%;
+    border-radius: 20px;    
+}
